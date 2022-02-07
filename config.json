@@ -1,0 +1,42 @@
+[
+  {
+    "name:": "Camera0",
+    "source": "rtsp://192.168.0.1:554/11",
+    "web_path": "media/",
+    "path": "/nvr/media/",
+    "video_filename": "%Y-%m-%d_%H-%M.mp4",
+    "still_filename": "out.jpg",
+    "still_hash": "",
+    "pid": ""
+  },
+  {
+    "name:": "Camera1",
+    "source": "rtsp://192.168.0.2:554/11",
+    "web_path": "media/",
+    "path": "/nvr/media/",
+    "video_filename": "%Y-%m-%d_%H-%M.mp4",
+    "still_filename": "out.jpg",
+    "still_hash": "",
+    "pid": ""
+  },
+  {
+    "name:": "Camera2",
+    "source": "rtsp://192.168.0.3:554/11",
+    "web_path": "media/",
+    "path": "/nvr/media/",
+    "video_filename": "%Y-%m-%d_%H-%M.mp4",
+    "still_filename": "out.jpg",
+    "still_hash": "",
+    "pid": ""
+  },
+  {
+    "name:": "Camera3",
+    "source": "rtsp://192.168.0.4:554/11",
+    "web_path": "media/",
+    "path": "/nvr/media/",
+    "video_filename": "%Y-%m-%d_%H-%M.mp4",
+    "still_filename": "out.jpg",
+    "still_hash": "",
+    "pid": ""
+  },
+]

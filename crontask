@@ -1,0 +1,3 @@
+cd /nvr/scripts/
+php init.php
+find /nvr/media/ -type f -name '*.mp4' -mtime +9 -exec rm {} \;
